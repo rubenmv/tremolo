@@ -3,12 +3,7 @@ Tremolo
 
 (https://github.com/rubenmv/tremolo)<br/>
 A prototype site about music related news and articles I made for university
-Check it out here: 
-
-Screenshots
------------
-
-
+Check it out here: https://rubenmv.github.io/tremolo
 
 Features
 --------
