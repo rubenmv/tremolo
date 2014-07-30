@@ -2,13 +2,8 @@ Tremolo
 =======
 
 (https://github.com/rubenmv/tremolo)<br/>
-A prototype site about music related news and articles I made for university
-Check it out here: 
-
-Screenshots
------------
-
-
+A prototype site about music related news and articles I made for university.<br/>
+Check it out here: https://rubenmv.github.io/tremolo
 
 Features
 --------
@@ -32,10 +27,3 @@ Features
     * Navigation possible with CSS disabled
     * Radio buttons with clickable labels
 * Noob programming
-
-License
--------
-
-The code is licensed under the GNU GPL v3 (http://www.gnu.org/licenses/gpl-3.0.txt)<br/>
-Assets are licensed under the Creative Commons Attribute Share-Alike 4.0 International (http://creativecommons.org/licenses/by-sa/4.0/)<br/>
-
